@@ -18,3 +18,9 @@ Submission:
 Zip the entire folder for your Unity project, and upload the zip file on Blackboard.
 Write your answer to the questions in a Word/Pdf document, and upload it with the zip file on Blackboard.
 Demo your app to the instructor in class.
+
+## Tutorial 3. Business Card
+
+https://chuanar.blogspot.com/2018/01/tutorial-3-business-card.html
+
+Together with the drone package.
